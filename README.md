@@ -6,3 +6,4 @@ Strona GITHUB: [marcnata.github.io](https://marcnata.github.io/)
 - 🌱 Obecnie uczę się programować
 - 😄 Zaimki: she/her
 
+Ciekawy artykuł: [link](https://github.com/deepfakes/faceswap) i jego [fork](https://github.com/marcnata/faceswap.git)
